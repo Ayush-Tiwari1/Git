@@ -7,3 +7,6 @@ def print():
 
 def func():
     print('New Branch Method Added')
+
+    print('New Line 1')
+    print('New Line 2')
