@@ -1,5 +1,5 @@
 age=22
-name="Ayush Tiwari"
+name="Ayush Tiwari New"
 
 
 def print():
